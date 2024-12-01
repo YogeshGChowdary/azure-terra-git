@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+.terraform/
+*exe
+creds.txt
+terraform.tfstate
+terraform.tfstate.backup
